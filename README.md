@@ -1,5 +1,5 @@
 
-<div style="background-color: #1e1e1e; padding: 20px; color: white; border-radius: 12px;">
+<div style="background-color: #000000; padding: 20px;border-radius: 12px;">
 <p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 </p>
