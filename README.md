@@ -1,10 +1,8 @@
-
-<div style="background-color: #000000; padding: 20px;border-radius: 12px;">
 <p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 </p>
 
-# Hi, I'm Ghilan
+# Hi, I'm Ghilan 😁
 A budding developer on a journey to master programming ...
 
 ## 🔨 Tools
@@ -68,4 +66,3 @@ A budding developer on a journey to master programming ...
 | [![Hear Quran App](https://github-readme-stats.vercel.app/api/pin/?username=G705-Ghilan&repo=hear_quran_app&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/G705-Ghilan/hear_quran_app) | [![Free GPT](https://github-readme-stats.vercel.app/api/pin/?username=G705-Ghilan&theme=dark&repo=Free-GPT&hide_border=true&bg_color=00000000)](https://github.com/G705-ghilan/Free-GPT) |
 |---|---|
 
-</div>
