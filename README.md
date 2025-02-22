@@ -3,7 +3,7 @@
 </p>
 
 # Hi, I'm Ghilan 😁
-A budding developer on a journey to master programming ...
+A developer on a journey to master programming ...
 
 ## 🔨 Tools
 <table>
